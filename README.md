@@ -1,2 +1,2 @@
-# L-put-
+# Loputoo
 Lõputöö repo
