@@ -7,10 +7,10 @@ Töö teoreetilises osas demonstreerib taotleja oma erialaseid teoreetilisi tead
 - Meie eesmärk on teha Saaremaa Trabijate Ühistule seadmete laosüsteem, kus saab lisada laos ja poodides olevaid seadmeid ja jälgida nende liikumist. Seadmetele saab anda ka staatuse: laos, objektil, üle vaadata, katki ja maha kantud. Iga seade on unikaalne ja sisestatakse seerianumbri alusel.
 - Lõputöö eesmärgiks on luua Saaremaa Tarbijate Ühistu jaoks täiustatud seadmete haldussüsteem, mis võimaldab jälgida seadmete liikumist ja staatust nende elutsükli jooksul. Süsteem võimaldab lisada nii laos kui ka poodides olevaid seadmeid ning hõlbustab nende jälgimist ja haldamist.
 
-- turvalisuse tõstmine (seletada ära, et täna PHP-s aga eesmärk teha laravelli).
+- turvalisuse tõstmine (seletada ära, et täna PHP-s aga eesmärk teha Laraveli).
 
 
-### Miks on laravell parem, kui PHP ehk tänane lahedus? (VIITED COPY JUURDE)
+### Miks on Laravel parem, kui PHP ehk tänane lahedus? (VIITED COPY JUURDE)
 - sisseehitatud tööriistad ja raamatukogud (https://medium.com/nerd-for-tech/core-php-vs-laravel-which-will-be-the-best-choice-for-business-web-app-development-ae6cf25d2cfb)
 - laiaulatuslik dokumentatsioon (https://medium.com/nerd-for-tech/core-php-vs-laravel-which-will-be-the-best-choice-for-business-web-app-development-ae6cf25d2cfb)
 - Laravel pakub turvalisusele struktureeritumat ja terviklikumat lähenemist, samas Core PHP pakub paindlikkust, kuid nõuab tugevate turvameetmete tagamiseks arendajatelt täiendavaid jõupingutusi. (https://medium.com/nerd-for-tech/core-php-vs-laravel-which-will-be-the-best-choice-for-business-web-app-development-ae6cf25d2cfb#:~:text=Core%20PHP%20Vs%20Laravel%3A%20Comparing,be%20different%20on%20both%20platforms.)
