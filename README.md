@@ -10,7 +10,7 @@ Meie eesmärk on teha Saaremaa Trabijate Ühistule seadmete laosüsteem, kus saa
 - turvalisuse tõstmine (seletada ära, et täna PHP-s aga eesmärk teha laravelli).
 
 
-### Laravelli eelised (VIITED COPY JUURDE)
+### Miks on laravell parem, kui PHP ehk tänane lahedus? (VIITED COPY JUURDE)
 - 
 
 ## Tehniline kirjeldus
