@@ -8,6 +8,9 @@ Meie eesmärk on teha Saaremaa Trabijate Ühistule seadmete laosüsteem, kus saa
 ### Lõputöö eesmärgiks on luua Saaremaa Tarbijate Ühistu jaoks täiustatud seadmete haldussüsteem, mis võimaldab jälgida seadmete liikumist ja staatust nende elutsükli jooksul. Süsteem võimaldab lisada nii laos kui ka poodides olevaid seadmeid ning hõlbustab nende jälgimist ja haldamist.
 
 - turvalisuse tõstmine (seletada ära, et täna PHP-s aga eesmärk teha laravelli).
+
+
+### Laravelli eelised
 - 
 
 ## Tehniline kirjeldus
