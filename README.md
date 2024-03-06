@@ -3,11 +3,10 @@ Teoreetilise osa soovituslik maht on 10-15 lehekülge, millele lisanduvad lisad.
 
 Töö teoreetilises osas demonstreerib taotleja oma erialaseid teoreetilisi teadmisi kasutades erinevaid allikaid (raamatuid, teaduslikke artikleid, juhendeid, tootjate kodulehekülgi jne). Kasutatud kirjanduse loetellu pannakse allikad, mida on otseselt antud töö koostamisel kasutatud. Kasutatud allikatele on viidatud töö tekstis.
 
-### Lõputöö eesmärgiks on luua Saaremaa Tarbijate Ühistu jaoks täiustatud seadmete haldussüsteem, mis võimaldab jälgida seadmete liikumist ja staatust nende elutsükli jooksul. Süsteem võimaldab lisada nii laos kui ka poodides olevaid seadmeid ning hõlbustab nende jälgimist ja haldamist.
-
-
 ## Lõputöö eesmärk
 Meie eesmärk on teha Saaremaa Trabijate Ühistule seadmete laosüsteem, kus saab lisada laos ja poodides olevaid seadmeid ja jälgida nende liikumist. Seadmetele saab anda ka staatuse: laos, objektil, üle vaadata, katki ja maha kantud. Iga seade on unikaalne ja sisestatakse seerianumbri alusel.
+### Lõputöö eesmärgiks on luua Saaremaa Tarbijate Ühistu jaoks täiustatud seadmete haldussüsteem, mis võimaldab jälgida seadmete liikumist ja staatust nende elutsükli jooksul. Süsteem võimaldab lisada nii laos kui ka poodides olevaid seadmeid ning hõlbustab nende jälgimist ja haldamist.
+
 ## Tehniline kirjeldus
 
 ## Praktilise teostuse kirjeldus
