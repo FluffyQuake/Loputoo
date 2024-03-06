@@ -11,7 +11,9 @@ Töö teoreetilises osas demonstreerib taotleja oma erialaseid teoreetilisi tead
 
 
 ### Miks on laravell parem, kui PHP ehk tänane lahedus? (VIITED COPY JUURDE)
-- 
+- sisseehitatud tööriistad ja raamatukogud (https://medium.com/nerd-for-tech/core-php-vs-laravel-which-will-be-the-best-choice-for-business-web-app-development-ae6cf25d2cfb)
+- laiaulatuslik dokumentatsioon (https://medium.com/nerd-for-tech/core-php-vs-laravel-which-will-be-the-best-choice-for-business-web-app-development-ae6cf25d2cfb)
+
 
 ## Tehniline kirjeldus
 
