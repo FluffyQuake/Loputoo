@@ -15,6 +15,7 @@ Töö teoreetilises osas demonstreerib taotleja oma erialaseid teoreetilisi tead
 - laiaulatuslik dokumentatsioon (https://medium.com/nerd-for-tech/core-php-vs-laravel-which-will-be-the-best-choice-for-business-web-app-development-ae6cf25d2cfb)
 - Laravel pakub turvalisusele struktureeritumat ja terviklikumat lähenemist, samas Core PHP pakub paindlikkust, kuid nõuab tugevate turvameetmete tagamiseks arendajatelt täiendavaid jõupingutusi. (https://medium.com/nerd-for-tech/core-php-vs-laravel-which-will-be-the-best-choice-for-business-web-app-development-ae6cf25d2cfb#:~:text=Core%20PHP%20Vs%20Laravel%3A%20Comparing,be%20different%20on%20both%20platforms.)
 - Laravel toetab populaarseid andmebaase nagu SQL, SQLite ja MySQL. Laravel võimaldab sujuvat suhtlust rakenduse ja nende andmebaaside vahel. (https://medium.com/nerd-for-tech/core-php-vs-laravel-which-will-be-the-best-choice-for-business-web-app-development-ae6cf25d2cfb)
+- Suuremate ja keerukate projektide puhul või kui eelistate turvalisust, organiseeritud arendust ja laiaulatuslikku ökosüsteemi, tõuseb Laravel oma eelehitatud funktsioonide ja tugeva turvalisusega tugevaks konkurendiks. (https://medium.com/nerd-for-tech/core-php-vs-laravel-which-will-be-the-best-choice-for-business-web-app-development-ae6cf25d2cfb)
 
 ## Tehniline kirjeldus
 
