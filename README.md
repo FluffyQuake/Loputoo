@@ -5,7 +5,7 @@ Töö teoreetilises osas demonstreerib taotleja oma erialaseid teoreetilisi tead
 
 
 ## Lõputöö eesmärk
-
+Meie eesmärk on teha Saaremaa Trabijate Ühistule seadmete laosüsteem, kus saab lisada laos ja poodides olevaid seadmeid ja jälgida nende liikumist. Seadmetele saab anda ka staatuse: laos, objektil, üle vaadata, katki ja maha kantud. Iga seade on unikaalne ja sisestatakse seerianumbri alusel.
 ## Tehniline kirjeldus
 
 ## Praktilise teostuse kirjeldus
@@ -13,7 +13,7 @@ Töö teoreetilises osas demonstreerib taotleja oma erialaseid teoreetilisi tead
 ## Töö teostamiseks vajaliku meeskonna koosseis, ülesannete jaotus
 
 ## Projekti teostamise ajakava (ja eelarve)
-
+6.Märts alustasime töö teoreetilise osa kirja panemisega.
 ## Tulemuste analüüs
 
 
