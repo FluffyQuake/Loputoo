@@ -17,10 +17,12 @@ Töö teoreetilises osas demonstreerib taotleja oma erialaseid teoreetilisi tead
 ## Tulemuste analüüs
 
 
+
+
 # Praktiline osa 
 Praktilises osas demonstreerib taotleja oma erialaseid praktilisi oskusi, luues lahenduse, mis on testitud, töötav ja praktilise väärtusega, võimalusel rakendatakse käsitletava ettevõtte seisukohalt uudset lähenemist või uut tehnoloogiat. 
 
-## Praktilise osa edukaks teostamiseks peab taotleja: 
+### Praktilise osa edukaks teostamiseks peab taotleja: 
 -	hindama tehtavate tööde mahtu ja planeerida vajalikke tegevusi; 
 -	valima lahenduse loomiseks õiged töövahendid; 
 -	valima lahenduse loomiseks õiged töövõtted; 
