@@ -28,7 +28,10 @@ Töö teoreetilises osas demonstreerib taotleja oma erialaseid teoreetilisi tead
 ## Töö teostamiseks vajaliku meeskonna koosseis, ülesannete jaotus
 
 ## Projekti teostamise ajakava (ja eelarve)
-6.Märts alustasime töö teoreetilise osa kirja panemisega.
+6. märts alustasime töö teoreetilise osa kirja panemisega, lõputöö eesmärgi lisamisega, põhjendamisega, miks Laravel parem on kui PHP ja tehnilise kirjelduse alustamisega.
+7. märts jätkasime töö teoreetilise osa kirjutamisega, tehnilise kirjelduse jätkamisega, praktilise teostuse kirjelduse alustamisega.
+
+
 ## Tulemuste analüüs
 
 
