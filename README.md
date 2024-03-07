@@ -18,7 +18,7 @@ Töö teoreetilises osas demonstreerib taotleja oma erialaseid teoreetilisi tead
 - Suuremate ja keerukate projektide puhul või kui eelistate turvalisust, organiseeritud arendust ja laiaulatuslikku ökosüsteemi, tõuseb Laravel oma eelehitatud funktsioonide ja tugeva turvalisusega tugevaks konkurendiks. (https://medium.com/nerd-for-tech/core-php-vs-laravel-which-will-be-the-best-choice-for-business-web-app-development-ae6cf25d2cfb)
 
 ## Tehniline kirjeldus
-- Prjoket ehitatakse üles Laravel Breeze raamistikul.
+- Projekt ehitatakse üles Laravel Breeze raamistikul.
 - Andmebaasina kasutame meile kooli poolt võimaldatud Zone'i andmebaasi.
 - 
 ## Praktilise teostuse kirjeldus
