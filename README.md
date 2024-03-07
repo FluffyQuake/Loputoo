@@ -7,7 +7,12 @@ Töö teoreetilises osas demonstreerib taotleja oma erialaseid teoreetilisi tead
 - Meie eesmärk on teha Saaremaa Trabijate Ühistule seadmete laosüsteem, kus saab lisada laos ja poodides olevaid seadmeid ja jälgida nende liikumist. Seadmetele saab anda ka staatuse: laos, objektil, üle vaadata, katki ja maha kantud. Iga seade on unikaalne ja sisestatakse seerianumbri alusel.
 - Lõputöö eesmärgiks on luua Saaremaa Tarbijate Ühistu jaoks täiustatud seadmete haldussüsteem, mis võimaldab jälgida seadmete liikumist ja staatust nende elutsükli jooksul. Süsteem võimaldab lisada nii laos kui ka poodides olevaid seadmeid ning hõlbustab nende jälgimist ja haldamist.
 - Eesmärk on veel parandada kõik eelmised PHPs tekkinud vead Laraveliga ära, üks neist on piltide tööle saamine.
-
+- Logole vajutades viib sind lao lehele (dashboard).
+- Dashboard muutub lao leheks.
+- Admin näeb kõiki kasutajaid. Saab soovikorral ära kustutada.
+- Teha admin, kasutaja(tööline), külaline kasutajad.
+- Peale refreshi(f5), tühjendaks otsingu tingimused.
+- Suurendame kasutaja sõbralikkust (eemaldame tahtmatud bugid).
 - turvalisuse tõstmine (seletada ära, et täna PHP-s aga eesmärk teha Laraveli).
 
 
