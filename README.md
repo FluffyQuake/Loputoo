@@ -18,9 +18,10 @@ Töö teoreetilises osas demonstreerib taotleja oma erialaseid teoreetilisi tead
 - Suuremate ja keerukate projektide puhul või kui eelistate turvalisust, organiseeritud arendust ja laiaulatuslikku ökosüsteemi, tõuseb Laravel oma eelehitatud funktsioonide ja tugeva turvalisusega tugevaks konkurendiks. (https://medium.com/nerd-for-tech/core-php-vs-laravel-which-will-be-the-best-choice-for-business-web-app-development-ae6cf25d2cfb)
 
 ## Tehniline kirjeldus
-- Projekt ehitatakse üles Laravel Breeze raamistikul.
-- Andmebaasina kasutame meile kooli poolt võimaldatud Zone'i andmebaasi.
-- 
+- Projekt ehitatakse üles Laravel Breeze raamistikul. Laravel Breeze on kõigi Laraveli autentimisfunktsioonide minimaalne ja lihtne rakendus, sealhulgas sisselogimine, registreerimine, parooli lähtestamine, e-posti kinnitamine ja parooli kinnitamine.
+- Andmebaasina kasutame meile kooli poolt võimaldatud Zone'i MySQL andmebaasi. MySQL on relatsioonilise andmebaasi haldamise süsteem, millesse saab päringud esitada standardiseeritult. Zone on Interneti tugiteenuste pakkuja
+- Projekti issuede jaoks kasutame Jirat. Jira on leht kus saab issuesid kirja panna ja töötunde logida ning backlogi abil töid prioritiseerida .
+  
 ## Praktilise teostuse kirjeldus
 
 ## Töö teostamiseks vajaliku meeskonna koosseis, ülesannete jaotus
