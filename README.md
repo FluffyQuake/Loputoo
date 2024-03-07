@@ -23,6 +23,7 @@ Töö teoreetilises osas demonstreerib taotleja oma erialaseid teoreetilisi tead
 - Projekti issuede jaoks kasutame Jirat. Jira on leht kus saab issuesid kirja panna ja töötunde logida ning backlogi abil töid prioritiseerida .
   
 ## Praktilise teostuse kirjeldus
+- Jiras loodud esimene issue, lisatud issuele time tracking.
 
 ## Töö teostamiseks vajaliku meeskonna koosseis, ülesannete jaotus
 
